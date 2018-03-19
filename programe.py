@@ -1,3 +1,5 @@
+import turtle
+
 windows = turtle.Screen()
 windows.bgcolor("#1A2A40")
 windows.setup(1280, 720)
